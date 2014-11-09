@@ -26,6 +26,6 @@ From the container prompt, start the VNC server with the command
     $ ./vncviewer.sh
 
 
-From the host, connect to the Desktop with vncviewer to `localhost:1`
+From the host, connect to the Desktop with vncviewer to `localhost:1` with the password `javadevmachine`
 
 Project files are stored in a folder `/work` in the container and in a folder `work` in your home folder of the host.
