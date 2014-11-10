@@ -23,7 +23,7 @@ or
 
 From the container prompt, start the VNC server with the command
 
-    $ ./vncviewer.sh
+    $ ./vncserver.sh
 
 
 From the host, connect to the Desktop with vncviewer to `localhost:1` with the password `javadevmachine`
